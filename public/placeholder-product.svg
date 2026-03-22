@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Product placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5e8cf"/>
+      <stop offset="100%" stop-color="#e3c8a2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <g fill="#8c6b43">
+    <rect x="220" y="120" width="360" height="260" rx="22" opacity="0.2"/>
+    <circle cx="310" cy="250" r="35" opacity="0.45"/>
+    <path d="M260 360l86-95 66 72 54-48 74 71H260z" opacity="0.55"/>
+  </g>
+  <text x="400" y="505" text-anchor="middle" font-family="Verdana, sans-serif" font-size="36" fill="#6f5537">
+    Product Image
+  </text>
+</svg>
